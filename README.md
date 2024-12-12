@@ -2,6 +2,8 @@
 
 - Este projeto é uma aplicação web que permite consultar a previsão do tempo de uma cidade, utilizando a API do OpenWeatherMap. O usuário pode digitar o nome da cidade e obter informações como temperatura, sensação térmica, umidade, vento e mais.
 
+* [Acesse meu APP](https://675b55328957c20bcdeb374b--weather-app-renan.netlify.app/)
+
 ## Funcionalidades
 
 - Consultar a previsão do tempo para uma cidade.
